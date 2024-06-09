@@ -1,5 +1,7 @@
 # Phone Company
 _**Start:** (roughly) May 18<sup>th</sup> 2022, **Finish:** May 19<sup>th</sup> 2022_
+
+For a first-year course: Applied Programming
 ## Scenario
 
 A phone company offers a monthly plan in which customers can select how much data, call minutes and texts they want.
